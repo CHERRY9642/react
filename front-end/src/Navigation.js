@@ -13,6 +13,7 @@ const Navigation = () => {
         </li>
         <li><NavLink  to="/login">login</NavLink >
         </li>
+    <li> hello<li>
       </ul>
     </nav>
   )
